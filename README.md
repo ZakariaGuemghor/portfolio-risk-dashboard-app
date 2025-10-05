@@ -8,7 +8,7 @@ This interactive dashboard provides a comprehensive framework for market risk an
 
 ## 🚀 Live Demo
 
-This application is deployed and publicly accessible via Streamlit Community Cloud. Click the link below to launch and interact with the dashboard directly in your browser — no installation required.
+This application is deployed and publicly accessible via Streamlit Community Cloud. Click the link below to launch and interact with the dashboard directly in your browser.
 
 **[➡️ Launch the Portfolio Risk Dashboard App](https://portfolio-risk-dashboard-app-ugzlqfi5fb23ue66xg7wvb.streamlit.app/)**
 
